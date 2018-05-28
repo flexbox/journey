@@ -78,8 +78,7 @@ Styleguidist allows us to create functional components and it's our internal des
 
 ## Automated tests strategy (libraries, coverage)
 **Testing**
-We’re using Jest with Enzyme for testing.
-[https://react-styleguidist.js.org/docs/development.html#testing]
+We’re using Jest with [Enzyme for testing](https://react-styleguidist.js.org/docs/development.html#testing).
 
 **Bug reporting**
 We can track the [errors of our app with sentry]([https://blog.sentry.io/2016/08/24/redux-middleware-error-logging])
@@ -95,9 +94,9 @@ _Rules_
 
 **Ressources**
 
-[https://blog.lingoapp.com/getting-the-most-out-of-redux-sentry-ecd8c737410d]
-[https://engineering.thetrainline.com/handling-api-calls-in-redux-with-redux-api-middleware-c95c38816e13]
-[https://my.mindnode.com/xQZyD9Qq8SG1zEpsc1SviR3cjpyUSfvEzLBxApqT]
+- [Using sentry with redux](https://blog.lingoapp.com/getting-the-most-out-of-redux-sentry-ecd8c737410d)
+- [Handling api calls in redux](https://engineering.thetrainline.com/handling-api-calls-in-redux-with-redux-api-middleware-c95c38816e13)
+- [Design Styleguide mindmap](https://my.mindnode.com/xQZyD9Qq8SG1zEpsc1SviR3cjpyUSfvEzLBxApqT)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).

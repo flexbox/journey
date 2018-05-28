@@ -47,6 +47,8 @@ The views are hight level components where `react-redux` allows us to connect Re
 
 Our redux implementation follow the classic separation of 3 folders `actions`, `reducers` and `store`.
 
+**Dashboard**: open / close the search, change the step, Toggle details
+
 **Users**: add / remove users to the journey
 
 **JourneyPlanner**: all the datas realted to transport schedules.

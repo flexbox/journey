@@ -31,9 +31,11 @@ component
   └── style.js
 ```
 
-
 **Views**
 
+The views are hight level components where `react-redux` allows us to connect React presentational components with Redux container components.
+
+- [Search](/src/views/search/index.js)
 - CheckoutConfirm
 - CheckoutEmail
 - Empty
@@ -99,5 +101,4 @@ _Rules_
 [https://my.mindnode.com/xQZyD9Qq8SG1zEpsc1SviR3cjpyUSfvEzLBxApqT]
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
- -->
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). -->

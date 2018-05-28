@@ -4,7 +4,9 @@
 
 **Components**
 
-- Global (Grid, Typography, Spinner, Animations, zIndex, Shadow, Colors)
+Here is the list of the components used in our app.
+
+- [Global](/src/components/globals/index.js) (Grid, Typography, Spinner, Animations, zIndex, Shadow, Colors)
 - Buttons
 - Inputs
 - Icons
@@ -14,13 +16,21 @@
 - Forms
 - Alerts
 - Logos
-
 - Dropdown
 - Toggle
 - Callout
 - Timeline
 - CreditCard
 - User
+
+We are using visual primitives with `styled-components` all the components needs to follow this organisation
+
+```
+component
+  ├── index.js
+  └── style.js
+```
+
 
 **Views**
 

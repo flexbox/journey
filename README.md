@@ -69,14 +69,10 @@ In the meantime we can add here a system for dealing with errors / debug `sentry
 
 ## Management of stylesheets and views
 
-Visual primitives with `styled-components`
+We are using visual primitives with `styled-components`.
+Everything is in `.js` and we don't nedd css files
 
-Styleguidist
-
-`npx styleguidist server` to start a style guide dev server.
-
-
-
+Styleguidist allows us to create functional components and it's our internal design guideline. YOu can run it locally with `npx styleguidist server` to start a style guide dev server
 
 
 
@@ -84,7 +80,6 @@ Styleguidist
 **Testing**
 We’re using Jest with Enzyme for testing.
 [https://react-styleguidist.js.org/docs/development.html#testing]
-
 
 **Bug reporting**
 We can track the [errors of our app with sentry]([https://blog.sentry.io/2016/08/24/redux-middleware-error-logging])
